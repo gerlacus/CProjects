@@ -1,3 +1,11 @@
+// String to Integer Conversion
+// Max Messenger Bouricius
+// July 2017
+// Simple program that converts an input string of integers into an integer value not by using the built-in int() method,
+// but rather by using the actual ASCII numerical values of each integer and adding them to a running total (accounting
+// for decimal places, of course). Then, the resulting integer undergoes a series of random mathematical operations
+// to show that it is, indeed, an integer after all.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
